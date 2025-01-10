@@ -2,7 +2,6 @@
 | 名称 | 地址 |
 | :---: | :--- | 
 | 蜗牛 | https://raw.githubusercontent.com/woniuxs/TVBOX/main/DC |
-| 潇洒哥 | https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt|
 | wuheng18 | https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json |
 | 聚合仓 | https://raw.githubusercontent.com/hd9211/Tvbox1/main/duocang1.json|
 
